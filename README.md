@@ -42,3 +42,5 @@ Generate (sample) some text from a trained model with:
     ./scripts/generate.sh
 
 
+# Changes
+I changed the source text, also I manually downloaded it due to one of the commands not working on my laptop
