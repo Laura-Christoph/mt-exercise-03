@@ -44,3 +44,5 @@ Generate (sample) some text from a trained model with:
 
 # Changes
 I changed the source text, also I manually downloaded it due to one of the commands not working on my laptop
+I changed the generate.sh script to generate the text from the better and worse models. I tried to make it produce both at the same time, but it kept giving errors and warnings, so I decided to manually change the model.
+In the excel file, I evaluated the log file, and in the Jupyter file, I reproduced two graphs as requested.
